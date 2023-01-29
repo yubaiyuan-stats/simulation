@@ -1,8 +1,4 @@
 
-"""
-@author: Yubai Yuan
-"""
-
 
 # This is the code for reproducing the simulation resutls in Table 2
 # for the low-rank nonlinear confounding effect setting 
