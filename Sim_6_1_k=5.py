@@ -1,9 +1,5 @@
 
 
-"""
-@author: Yubai Yuan
-"""
-
 # This is the code for reproducing the simulation resutls in Table 1
 # when number of mediators is k = 5
 # plesae first install following packages 
