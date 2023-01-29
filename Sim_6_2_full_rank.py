@@ -1,8 +1,4 @@
 
-"""
-@author: Yubai Yuan
-"""
-
 # This is the code for reproducing the simulation resutls in Table 2
 # for the full-rank nonlinear confounding effect setting 
 # plesae first install following packages 
